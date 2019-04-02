@@ -1,1 +1,59 @@
 /* You can add global styles to this file, and also import other style files */
+.page{
+  height: 100vh;
+display: block;
+}
+#home {
+    background: url(http://webtechnologybd.com/template/nivea/demo/images/home-bg.jpg) repeat scroll center center / cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    background-attachment: fixed;
+
+ .list-social {
+   li {
+    display: inline-block;
+    margin-right: 20px;
+
+
+
+     i {
+    color: #fff;
+    font-size: 13px;
+    transition: all ease 0.3s;
+}
+   }
+ }
+
+.home-content {
+    text-align: center !important;
+
+ h1 {
+    font-size: 70px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 15px;
+
+    .cd-headline.clip .cd-words-wrapper {
+    overflow: hidden;
+    vertical-align: top;
+    color: #fff;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+}
+
+}
+
+    .display-table {
+    width: 100%;
+    height: 100%;
+    display: table;
+
+    .table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+}
+}
